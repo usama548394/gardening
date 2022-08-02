@@ -1,0 +1,22 @@
+main{
+    background-image: url(https://toppng.com/uploads/preview/green-background-texture-11553957950q8wcyypxim.jpg);
+    width: 100vw;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: fixed; */
+}
+.container1{
+    background-color:#B0B6D8;
+    position:relative;
+    top: 70px;
+    
+}
+.container-2{
+    /* position: relative;
+    top: 0px; */
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+}

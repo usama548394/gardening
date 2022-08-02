@@ -1,0 +1,48 @@
+main{
+    background-image: url(g-bg-1.jpg);
+    /* position: fixed; */
+    /* margin-top: 100px; */
+    width: 100vw;
+    height: 100vh;
+}
+
+main.container{
+    /* position: relative;
+    margin-top: 700px; */
+    text-align: center;
+}
+.btn{
+    position: relative;
+    left: 200px;
+}
+.btn:hover{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    text-shadow: 2px rgb(25, 37, 25);
+}
+.container1{
+    background-color:#B0B6D8;
+    position:relative;
+    top: 280px;
+}
+.container-2{
+    background-color:#305534;
+    position:relative;
+    top: 280px;
+}
+.container-3{
+    background-color:#141517;
+    position:relative;
+    top: 280px;
+}
+.btn-1{
+    position: relative;
+    left: 130px;
+}
+.btn-1:hover{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    text-shadow: 2px rgb(25, 37, 25);
+}

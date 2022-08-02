@@ -1,0 +1,23 @@
+main{
+    background-image: url(g-projects.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: -40px;
+    width: 100vw;
+    height: 500px;
+}
+.container-1{
+    position: relative;
+    top: 30px;
+}
+.container-2{
+    background-color:#305534;
+    position:relative;
+    top: 280px;
+}
+.container-3{
+    background-color:#141517;
+    position:relative;
+    /* top: 280px; */
+}
